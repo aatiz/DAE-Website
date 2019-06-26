@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.main{
+	margin: 10px;
+}
+.warpper{
+	background-color: #009944;
+	padding: 5px;
+	border-radius: 5px 5px 0px 0px;
+	text-align: right;
+}
+
+.warpper a{
+	color: #ffffff;
+}
+
+.warpper a:hover{
+	color: #dce8e6;
+	text-decoration: none;
+}
+.banner{
+	background-color: #03442e;
+	padding: 10px;
+}
+/* Nav Bar*/
+
+.footer-up{
+	
+}
+.footer{
+	background-color: #dc3d24;
+	color: #ffffff;
+	align: center;
+	padding: 5px;
+	text-align: center;
+	border-radius: 0px 0px 5px 5px;
+}
+
+
+
+/* Media Device CSS codes*/
