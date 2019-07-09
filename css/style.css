@@ -34,6 +34,12 @@ body{
 	padding: 15px;
 	text-align: right;
 }
+.barline-down{
+	background-color: #009944;
+	padding: 15px;
+	text-align: right;
+}
+
 .max-width-footer{
 	max-width: 992px;
 	align-content: stretch;
@@ -43,15 +49,19 @@ body{
 	color: #ffffff;
 }
 
-.socialmediaicons{
-	list-style-type: none;
-	align-content: center;
-}
-
 .footer-up{
 	background-color: #333333;
 }
-.footer-up a, h6, p, b{
+.footer-up a{
+	color: #ffffff;
+}
+.footer-up p{
+	color: #ffffff;
+}
+.footer-up b{
+	color: #ffffff;
+}
+.footer-up h6{
 	color: #ffffff;
 }
 .footer-up a:hover{
