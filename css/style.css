@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 .main{
 	margin: 10px;
@@ -40,14 +40,8 @@ body{
 	text-align: right;
 }
 
-.max-width-footer{
-	max-width: 992px;
-	align-content: stretch;
-}
-.important-links{
-	list-style-type: square;
-	color: #ffffff;
-}
+
+/* Footer*/
 
 .footer-up{
 	background-color: #333333;
@@ -69,7 +63,10 @@ body{
 	/*color: #11ff7c;*/
 	text-decoration: none;
 }
-
+.important-links{
+	list-style-type: square;
+	color: #ffffff;
+}
 .footer{
 	background-color: #dc3d24;
 	color: #ffffff;
@@ -78,7 +75,5 @@ body{
 	text-align: center;
 	border-radius: 0px 0px 5px 5px;
 }
-
-
 
 /* Media Device CSS codes*/
