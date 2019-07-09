@@ -48,6 +48,7 @@ body{
 
 .footer-up{
 	background-color: #333333;
+	padding: 10px;
 }
 .footer-up a{
 	color: #ffffff;
@@ -73,10 +74,10 @@ body{
 .footer{
 	background-color: #dc3d24;
 	color: #ffffff;
-	align: center;
 	padding: 5px;
 	text-align: center;
 	border-radius: 0px 0px 5px 5px;
 }
+/* Other Pages Fix*/
 
 /* Media Device CSS codes*/
