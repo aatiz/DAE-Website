@@ -3,6 +3,10 @@
 body{
 	font-family: 'Roboto', sans-serif;
 }
+.container {
+	padding-left: 0px;
+	padding-right: 0px;
+}
 .main{
 	margin: 10px;
 }
@@ -51,6 +55,8 @@ body{
 .footer-up{
 	background-color: #333333;
 	padding: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 .footer-up a{
 	color: #ffffff;
